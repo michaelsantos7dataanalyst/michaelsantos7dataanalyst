@@ -1,8 +1,8 @@
-# 🧑‍💻Olá! Eu sou Michael Santos
+#  🧑‍💻Olá! Eu sou Michael Santos
 ### 💻 Cloud Data Analyst | Business Intelligence Specialist | Data Storyteller  
 
 🔹🔹🔹 **Transformando dados em histórias que impulsionam negócios** 🔹🔹🔹  
-📍 **São Paulo, Brasil** 
+📍 **Osasco, Brasil** 
 
 <p align="center">
     <a href="https://github.com/michael-santos?tab=followers">
